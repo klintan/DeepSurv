@@ -1,0 +1,8 @@
+bin
+include
+build
+dist
+lib
+.idea
+.Python
+pip-selfcheck.json
